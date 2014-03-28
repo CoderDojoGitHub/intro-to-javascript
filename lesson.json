@@ -1,0 +1,15 @@
+{
+  "title": "Intro to JavaScript",
+  "summary": "In this lesson we're going to learn some JavaScript! You've used Scratch, Blockly or completed some lessons on Code.org, and now it's time to move beyond that. We'll review the concepts demonstrated in editors like Scratch and then start writing actual code in JavaScript.",
+  "image_url": "http://cl.ly/image/0J0p2Z024221/introtojavascript.jpg",
+  "author_github_username": "mikefowler",
+  "events": [
+    {
+      "location": "GitHub, 88 Colin P Kelly Jr St San Francisco CA 94107",
+      "date": "Sat Apr 12 2014 10:00:00 GMT-0700 (PDT)",
+      "length_in_hours": null,
+      "teacher_github_username": "mikefowler"
+    }
+  ],
+  "length": "3"
+}
