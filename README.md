@@ -440,5 +440,8 @@ if you get stuck!
 ## Remaining
 
 - Improvements
+  - handling invalid user responses
+	- handling uppercase/capitalized/lowercase answers
+	- restarting in the case of a tie
   - logging out the two choices and the winner
 	- clear console at start (`console.clear()`)
